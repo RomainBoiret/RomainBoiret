@@ -9,7 +9,7 @@ I'm a young programming student from Montréal
 
 ✎ 🌱 I'm currently learning : **C language**
 
-✎ 📫 How to reach me ➜ **romainboiret@gmail.com**
+✎ 📫 How to reach me : **romainboiret@gmail.com**
 
 ✎ 🪁 Fun fact : **I love skiing⛷️, Manga🍜 and Video games🕹️**
 
