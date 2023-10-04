@@ -1,7 +1,7 @@
 <h2 align="center">Hello! I'm Romain Boiret</h2>
 <img align="right" alt="Codage" width="400" src="https://i.pinimg.com/564x/c6/51/43/c651433dde72002ff8067f0d7634a7ef.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=romainboiret&label=Profile%20views&color=0e75b6&style=flat" alt="romainboiret" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=romainboiret&label=Profile%20views&color=0e75b6&style=flat" alt="romainboiret" /> </p>-->
 
 I'm a young programming student from Montréal
 
