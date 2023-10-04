@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romainboiret&label=Profile%20views&color=0e75b6&style=flat" alt="romainboiret" /> </p>
 
-- 🌱 I'm currently learning **C language**
+✎ 🌱 I'm currently learning **C language**
 
-- 📫 How to reach me ➜ **romainboiret@gmail.com**
+✎ 📫 How to reach me ➜ **romainboiret@gmail.com**
 
-- 🪁 Fun fact **I love skiing⛷️, Manga🍜 and Video games🕹️**
+✎ 🪁 Fun fact **I love skiing⛷️, Manga🍜 and Video games🕹️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
