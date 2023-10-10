@@ -1,5 +1,5 @@
 <h2 align="center">Hello! I'm Romain Boiret</h2>
-<img align="right" alt="Codage" width="400" src="https://i.pinimg.com/564x/c6/51/43/c651433dde72002ff8067f0d7634a7ef.jpg">
+<img align="right" alt="Codage" width="300" src="https://i.pinimg.com/564x/20/68/d0/2068d0ec2ff20495819bc512149fe491.jpg">
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=romainboiret&label=Profile%20views&color=0e75b6&style=flat" alt="romainboiret" /> </p>-->
 
@@ -18,7 +18,7 @@ I'm a young programming student from Montréal
 
 <table>
   <tr>
-    <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romainboiret&show_icons=true&locale=en&layout=compact" alt="romainboiret" /></td>
-    <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romainboiret&show_icons=true&locale=en" alt="romainboiret" /></p></td>
+    <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romainboiret&show_icons=true&locale=en&layout=compact&theme=onedark" alt="romainboiret" /></td>
+    <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romainboiret&show_icons=true&locale=en&theme=onedark" alt="romainboiret" /></p></td>
   </tr>
 </table>
