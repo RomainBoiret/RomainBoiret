@@ -6,11 +6,11 @@ I'm a young programming student from Montréal
 
 <b align="left">About me:</b>
 
-✎ 🌱 I'm currently learning: **C language**
+✎ 🌱 I'm currently learning **C language**
 
-✎ 📫 How to reach me: **romainboiret@gmail.com**
+✎ 📫 How to reach me **romainboiret@gmail.com**
 
-✎ 🪁 Fun fact: **I love skiing⛷️, Manga🍜 and Video games🕹️**
+✎ 🪁 Fun fact; **I love skiing⛷️, Manga🍜 and Video games🕹️**
 
 <b align="left">Languages:</b>
 <p align="left">
