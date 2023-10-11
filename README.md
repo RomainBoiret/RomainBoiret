@@ -1,4 +1,4 @@
-<h2 align="center">Hello! I'm Romain</h2>
+<div align="center"><img src="https://github.com/RomainBoiret/RomainBoiret/blob/main/hi_im_romain.png?raw=true"></div>
 <div id="coin">
 <img align="right" alt="Codage" width="300" src="https://i.pinimg.com/originals/d1/48/8c/d1488c62d2e566a8a5a581776e8a347a.gif">
 </div>
