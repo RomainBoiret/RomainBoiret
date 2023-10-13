@@ -10,7 +10,7 @@ I'm a young programming student from Montréal
 
 ✎ 📫 How to reach me **romainboiret@gmail.com**
 
-✎ 🪁 Fun fact; **I love skiing⛷️, Manga🍜 and Video games🕹️**
+✎ 🪁 Fun fact **I love skiing⛷️, Manga🍜 and Video games🕹️**
 
 <b align="left">Languages:</b>
 <p align="left">
