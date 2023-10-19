@@ -1,5 +1,5 @@
 <div align="center"><img width="auto" alt="banner" src="https://github.com/RomainBoiret/RomainBoiret/blob/main/hi_im_romain.png?raw=true"></div>
-<img align="right" alt="Codage" width="280" src="https://i.pinimg.com/originals/7f/2c/50/7f2c5092eb778b3423f634055ffea540.gif">
+<img align="right" alt="Codage" width="280" src="https://i.pinimg.com/originals/8d/d1/76/8dd176c04a07c37b80a640dbc73382ff.gif">
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=romainboiret&label=Profile%20views&color=0e75b6&style=flat" alt="romainboiret" /> </p>-->
 
 I'm a young programming student from Montréal
