@@ -6,7 +6,7 @@ I'm a young programming student from Montréal
 
 <b align="left">About me:</b>
 
-✎ 🌱 I'm currently learning **C language**
+✎ 🌱 I'm currently learning **JAVA**
 
 ✎ 📫 How to reach me **romainboiret@gmail.com**
 
