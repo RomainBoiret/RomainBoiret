@@ -1,4 +1,4 @@
-<div align="center"><a href="https://romainboiret.github.io/My_web_site.html/"><img width="auto" alt="banner" src="https://github.com/RomainBoiret/RomainBoiret/blob/main/hi_im_romain.png?raw=true"></a></div>
+<div align="center"><a href="https://romainboiret.github.io/My_web_site.html/" target="_BLANK"><img width="auto" alt="banner" src="https://github.com/RomainBoiret/RomainBoiret/blob/main/hi_im_romain.png?raw=true"></a></div>
 <img align="right" alt="Codage" width="300" src="https://i.pinimg.com/originals/be/aa/40/beaa40618ad5b54d5e5dd7da556dbf56.gif">
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=romainboiret&label=Profile%20views&color=0e75b6&style=flat" alt="romainboiret" /> </p>-->
 
