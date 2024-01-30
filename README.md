@@ -25,7 +25,7 @@ I'm a young programming student from Montréal
 
 <table>
   <tr>
-    <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romainboiret&show_icons=true&locale=en&layout=compact&theme=onedark" alt="romainboiret" /></td>
-    <td><p>&nbsp;<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=romainboiret&show_icons=true&locale=en&theme=onedark" alt="romainboiret" /></p></td>
+    <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romainboiret&show_icons=true&locale=en&layout=compact" alt="romainboiret" /></td>
+    <td><p>&nbsp;<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=romainboiret&show_icons=true&locale=en" alt="romainboiret" /></p></td>
   </tr>
 </table>
