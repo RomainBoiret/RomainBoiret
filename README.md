@@ -2,7 +2,7 @@
 <img align="right" alt="Codage" width="300" src="https://i.pinimg.com/originals/be/aa/40/beaa40618ad5b54d5e5dd7da556dbf56.gif">
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=romainboiret&label=Profile%20views&color=0e75b6&style=flat" alt="romainboiret" /> </p>-->
 
-I'm a young programming student from Montréal
+I'm a young student developper from Montréal
 
 <b align="left">About me:</b>
 
