@@ -9,7 +9,7 @@
 
 ✎ 🌱 I'm currently learning **containerization**
 
-✎ 🧙‍♂️ I'd like to make a **2D game** to pass the time
+✎ 🧙‍♂️ I'd like to make a **2D inde game** to pass the time
 
 ✎ 📫 How to reach me **romainboiret@gmail.com**
 
