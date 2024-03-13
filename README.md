@@ -35,11 +35,8 @@ I'm a young student developper from Montréal
 </p>
 
 ### GitHub stats
-<table>
-  <tr>
-    <td>![Stats GitHub](https://github-readme-stats.vercel.app/api?username=romainboiret&hide=issues&show_icons=true&theme=github_dark_dimmed)</td>
-    <td>![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romainboiret&layout=compact&theme=github_dark_dimmed)</td>
-  </tr>
-</table>
+
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=romainboiret&hide=issues&show_icons=true&theme=github_dark_dimmed)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romainboiret&layout=compact&theme=github_dark_dimmed)
 
 ![Ego boost](https://komarev.com/ghpvc/?username=romainboiret&color=green)
