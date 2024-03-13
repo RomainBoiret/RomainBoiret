@@ -2,22 +2,20 @@
 <img align="right" alt="Codage" width="300" src="https://i.pinimg.com/564x/7f/98/ff/7f98ffc142c2594f3d56ca22591e9259.jpg">
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=romainboiret&label=Profile%20views&color=0e75b6&style=flat" alt="romainboiret" /> </p>-->
 
-I'm a young student developper from Montréal
-
 ### About me
 
+✎ 🙋‍♂️ I'm a young student developper from **Montréal**
 
-- 🌱 I'm currently learning **JAVA**
+✎ 🎒 I currently study Software Engineering at **École de Technologie Supérieure**
 
-- 🎒 I currently study Software Engineering at **École de Technologie Supérieure**
+✎ 🌱 I'm currently learning **JAVA**
 
-- 📫 How to reach me **romainboiret@gmail.com**
+✎ 📫 How to reach me **romainboiret@gmail.com**
 
-- 🪁 Fun fact **I love skiing⛷️, Manga🍜 and Video games🕹️**
+✎ 🪁 Fun fact **I love skiing⛷️, Manga🍜 and Video games🕹️**
 
 ### Main tools
 
-  
 <code><img height="20" alt="c" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code><img height="20" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
 <code><img height="20" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
@@ -43,5 +41,3 @@ I'm a young student developper from Montréal
 
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=romainboiret&hide=issues&show_icons=true&theme=github_dark_dimmed)
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romainboiret&layout=compact&theme=github_dark_dimmed)
-
-![Ego boost](https://komarev.com/ghpvc/?username=romainboiret&color=green)
