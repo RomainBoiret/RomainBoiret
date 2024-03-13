@@ -12,7 +12,7 @@ I'm a young student developper from Montréal
 
 ✎ 🪁 Fun fact **I love skiing⛷️, Manga🍜 and Video games🕹️**
 
-<b align="left">Favorites languages:</b>
+<b align="left">Mains tools:</b>
 <p align="left">
   
 <code><img height="20" alt="c" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
