@@ -13,8 +13,6 @@
 
 ✎ 📫 How to reach me **romainboiret@gmail.com**
 
-✎ 🤹‍♂️ Take a look at my website **[https://RomainBoiret](https://romainboiret.github.io/My_web_site.html/)**
-
 ✎ 🪁 Fun fact **I love skiing⛷️, Manga🍜 and Video games🕹️**
 
 ### Main tools
