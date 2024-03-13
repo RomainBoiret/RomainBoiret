@@ -7,8 +7,11 @@ I'm a young student developper from Montréal
 ### About me
 
 - 🌱 I'm currently learning **JAVA**
+
 - 🖬 I currently study Software Engineering at **École de Technologie Supérieure**
+
 - 📫 How to reach me **romainboiret@gmail.com**
+
 - 🪁 Fun fact **I love skiing⛷️, Manga🍜 and Video games🕹️**
 
 ### Main tools:
