@@ -4,16 +4,14 @@
 
 I'm a young student developper from Montréal
 
-<b align="left">About me:</b>
+### About me
 
-✎ 🌱 I'm currently learning **JAVA**
+- 🌱 I'm currently learning **JAVA**
+- 🖬 I currently study Software Engineering at **École de Technologie Supérieure**
+- 📫 How to reach me **romainboiret@gmail.com**
+- 🪁 Fun fact **I love skiing⛷️, Manga🍜 and Video games🕹️**
 
-✎ 📫 How to reach me **romainboiret@gmail.com**
-
-✎ 🪁 Fun fact **I love skiing⛷️, Manga🍜 and Video games🕹️**
-
-<b align="left">Main tools:</b>
-<p align="left">
+### Main tools:
   
 <code><img height="20" alt="c" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code><img height="20" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
@@ -36,9 +34,12 @@ I'm a young student developper from Montréal
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> -->
 </p>
 
+### GitHub stats
 <table>
   <tr>
-    <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romainboiret&show_icons=true&locale=en&layout=compact" alt="romainboiret" /></td>
-    <td><p>&nbsp;<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=romainboiret&show_icons=true&locale=en" alt="romainboiret" /></p></td>
+    <td>![Stats GitHub](https://github-readme-stats.vercel.app/api?username=romainboiret&hide=issues&show_icons=true&theme=github_dark_dimmed)</td>
+    <td>![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romainboiret&layout=compact&theme=github_dark_dimmed)</td>
   </tr>
 </table>
+
+![Ego boost](https://komarev.com/ghpvc/?username=romainboiret&color=green)
