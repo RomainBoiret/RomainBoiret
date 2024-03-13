@@ -1,16 +1,19 @@
 <div align="center"><a href="https://romainboiret.github.io/My_web_site.html/"><img width="auto" alt="banner" src="https://github.com/RomainBoiret/RomainBoiret/blob/main/hi_im_romain.png?raw=true"></a></div>
 <img align="right" alt="Codage" width="270" src="https://i.pinimg.com/564x/7f/98/ff/7f98ffc142c2594f3d56ca22591e9259.jpg">
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=romainboiret&label=Profile%20views&color=0e75b6&style=flat" alt="romainboiret" /> </p>-->
 
 ### About me
 
 ✎ 🙋‍♂️ I'm a young **French** student developper from **Montréal**
 
-✎ 🎒 I currently study Software Engineering at **École de Technologie Supérieure**
+✎ 🎒 I'm currently studying Software Engineering at **École de Technologie Supérieure**
 
-✎ 🌱 I'm currently learning **JAVA**
+✎ 🌱 I'm currently learning **containerization**
+
+✎ 🧙‍♂️ I'd like to make a **2D game** to pass the time
 
 ✎ 📫 How to reach me **romainboiret@gmail.com**
+
+✎ 🤹‍♂️ Take a look at my website **[https://RomainBoiret](https://romainboiret.github.io/My_web_site.html/)**
 
 ✎ 🪁 Fun fact **I love skiing⛷️, Manga🍜 and Video games🕹️**
 
