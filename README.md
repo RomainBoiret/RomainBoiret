@@ -4,7 +4,7 @@
 
 ### About me
 
-✎ 🙋‍♂️ I'm a young student developper from **Montréal**
+✎ 🙋‍♂️ I'm a young **French** student developper from **Montréal**
 
 ✎ 🎒 I currently study Software Engineering at **École de Technologie Supérieure**
 
