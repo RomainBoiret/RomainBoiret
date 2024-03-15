@@ -9,8 +9,6 @@
 
 ✎ 🌱 I'm currently learning **containerization**
 
-✎ 🧙‍♂️ I'd like to make a **2D inde game** to pass the time
-
 ✎ 📫 How to reach me **romainboiret@gmail.com**
 
 ✎ 🪁 Fun fact **I love skiing⛷️, Manga🍜 and Video games🕹️**
