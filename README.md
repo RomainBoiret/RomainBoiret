@@ -7,7 +7,7 @@
 
 ✎ 🎒 I'm currently studying Software Engineering at **École de Technologie Supérieure**
 
-✎ 🌱 I'm currently learning **containerization**
+✎ 🌱 I'm currently learning **React js**
 
 ✎ 📫 How to reach me **romainboiret@gmail.com**
 
