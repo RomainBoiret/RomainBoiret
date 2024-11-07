@@ -33,6 +33,7 @@
 <code><img height="20" alt="c" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code><img height="20" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code><img height="20" alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
 <code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
 <code><img height="20" alt="bash" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"></code>
 
