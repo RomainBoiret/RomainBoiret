@@ -7,8 +7,6 @@
 
 ✎ 🎒 I'm currently studying Software Engineering at **École de Technologie Supérieure**
 
-<!-- ✎ 🌱 I'm currently learning **Vue 3** -->
-
 ✎ 📫 How to reach me **romainboiret@gmail.com**
 
 ✎ 🪁 Fun fact **I love skiing⛷️, Manga🍜 and Video games🕹️**
