@@ -1,4 +1,4 @@
-<div align="center"><a href="https://romainboiret.github.io/My_web_site.html/"><img width="auto" alt="banner" src="https://github.com/RomainBoiret/RomainBoiret/blob/main/hi_im_romain.png?raw=true"></a></div>
+<div align="center"><a href="https://romainboiret.com"><img width="auto" alt="banner" src="https://github.com/RomainBoiret/RomainBoiret/blob/main/hi_im_romain.png?raw=true"></a></div>
 <img align="right" alt="Codage" width="270" src="https://i.pinimg.com/564x/7f/98/ff/7f98ffc142c2594f3d56ca22591e9259.jpg">
 
 ### About me
