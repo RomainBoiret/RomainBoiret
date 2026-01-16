@@ -47,7 +47,7 @@
 <code><img height="20" alt="confluence" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg"></code>
 <code><img height="20" alt="figma" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></code>
 
-### GitHub stats
+<!-- ### GitHub stats
 
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=romainboiret&hide=issues&show_icons=true&theme=github_dark_dimmed)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romainboiret&layout=compact&theme=github_dark_dimmed)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romainboiret&layout=compact&theme=github_dark_dimmed) -->
