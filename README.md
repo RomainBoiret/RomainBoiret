@@ -17,32 +17,11 @@ Software Engineering Student • Frontend Developer • Montréal 🇨🇦
 - 🌱 Always learning and building personal projects
 - 📫 **romainboiret@gmail.com**
 
-## Tech Stack
+### Tools
 
-## Tech Stack
-
-<code><img height="20" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
-<code><img height="20" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
-<code><img height="20" alt="sass" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></code>
-<code><img height="20" alt="tailwindcss" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
-<code><img height="20" alt="vuejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></code>
-<code><img height="20" alt="nuxtjs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
-<code><img height="20" alt="vitejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
-<code><img height="20" alt="storybook" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg"></code>
-<code><img height="20" alt="vitest" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg"></code>
-<code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
-<code><img height="20" alt="microsoftsqlserver" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"></code>
-<code><img height="20" alt="git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-<code><img height="20" alt="github" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
-<code><img height="20" alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
-<code><img height="20" alt="npm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"></code>
-<code><img height="20" alt="pnpm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pnpm/pnpm-original.svg"></code>
-<code><img height="20" alt="figma" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></code>
-<code><img height="20" alt="vscode" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
+<p align="">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,pug,js,ts,vue,nuxt,react,vite,vitest,nodejs,express,php,java,python,c,mysql,postgres,mongodb,git,github,githubactions,docker,npm,pnpm,vercel,linux,figma,vscode,visualstudio,androidstudio,azure,confluence,jira" />
+</p>
 
 ---
 
