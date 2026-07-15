@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./assets/profile.gif" alt="Hi! I'm Romain" width="500"/>
+<a href="https://romainboiret.com">
+  <img src="./assets/profile.gif" alt="Hi! I'm Romain" width="500"/>
+</a>
 
 Software Engineering Student • Frontend Developer • Montréal 🇨🇦
 
