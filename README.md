@@ -20,7 +20,7 @@ Software Engineering Student • Full Stack Developer • Montréal 🇨🇦
 ### Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,pug,js,ts,vue,nuxt,react,vite,vitest,nodejs,express,php,java,python,c,mysql,postgres,mongodb,git,github,githubactions,docker,npm,pnpm,vercel,linux,figma,vscode,visualstudio,androidstudio,azure,confluence,jira" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,pug,md,js,jquery,ts,vue,pinia,nuxt,react,vite,vitest,jest,cypress,nodejs,express,prisma,php,java,python,c,mysql,postgres,mongodb,git,github,gitlab,githubactions,docker,npm,pnpm,vercel,gcp,linux,ubuntu,powershell,postman,figma,vscode,visualstudio,androidstudio,azure,confluence,jira" />
 </p>
 
 ---
