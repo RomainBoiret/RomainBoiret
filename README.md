@@ -20,7 +20,7 @@ Software Engineering Student • Full Stack Developer • Montréal 🇨🇦
 ### Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,javascript,vue,nuxtjs,react,nextjs,nodejs,postgres,prisma,docker,githubactions,git,nx" />
+  <img src="https://skillicons.dev/icons?i=ts,js,vue,nuxt,react,nextjs,vite,nodejs,postgres,prisma,docker,githubactions,git,nx" />
 </p>
 
 ---
