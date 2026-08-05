@@ -20,9 +20,9 @@ jobs:
         uses: soulteary/github-readme-stats-action@v1.0.0
         with:
           card: stats
-          options: "username=RomainBoiret&show_icons=true&hide_border=true&bg_color=0e1018&title_color=8B8FF7&icon_color=8B8FF7&text_color=c9d1d9"
+          options: "username=RomainBoiret&show_icons=true&hide_border=true&bg_color=0e1018&title_color=8B8FF7&icon_color=8B8FF7&text_color=c9d1d9&ring_color=8B8FF7"
           path: assets/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
 
       - name: Generate top languages card
         uses: soulteary/github-readme-stats-action@v1.0.0
