@@ -1,8 +1,8 @@
 ### Hi 👋! I'm Romain Boiret
 
 <div align="left">
-  <img height="180" src="./assets/stats.svg" />
-  <img height="180" src="./assets/top-langs.svg" />
+  <img height="165" src="./assets/stats.svg" />
+  <img height="165" src="./assets/top-langs.svg" />
 </div>
 
 <br/>
